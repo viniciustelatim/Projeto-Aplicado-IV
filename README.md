@@ -2,7 +2,7 @@
 
 ## PREVISÃO DE TRÁFEGO URBANO NO BRASIL COM REDES DE ATENÇÃO ESPACIAL-TEMPORAL
 
-Esse repositório do GitHub será utilizado para postagem e atualizações do trabalho de Projeto Aplicado III.
+Esse repositório do GitHub será utilizado para postagem e atualizações do trabalho de Projeto Aplicado IV.
 
 ### Origem dos dados: http://dados.recife.pe.gov.br/dataset/velocidade-das-vias-quantitativo-por-velocidade-media-2022
 
